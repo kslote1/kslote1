@@ -25,5 +25,5 @@ Kevin Slote is a principal Data Scientist. I have a Master's degree in abstract 
   
 * [Biological and Engineering Networks Lab](https://math.gsu.edu/ibelykh/belykh_lab.html)
 
-  # Join my reading!
+  # Join my reading group on Data-Driven Dynamical Systems!
   GitHub link posted below for [data driven dynamics and machine learning](https://github.com/kslote1/Data-Driven-Dynamics)
