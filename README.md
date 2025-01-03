@@ -21,7 +21,7 @@ Kevin Slote is a principal Data Scientist. I have a Master's degree in abstract 
 
 * [Kevin Slote Teaching Page :link:](https://sites.google.com/view/kevin-slote)
 
-* [Blue Skyt](https://app.bsky.cz/profile/did:plc:kkyydu6asmal4et5k7w2smwr)
+* [Blue Sky](https://app.bsky.cz/profile/did:plc:kkyydu6asmal4et5k7w2smwr)
   
 * [Biological and Engineering Networks Lab](https://math.gsu.edu/ibelykh/belykh_lab.html)
 
