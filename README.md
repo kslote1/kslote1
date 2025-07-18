@@ -28,6 +28,9 @@ Kevin Slote is a principal Data Scientist. I have a Master's degree in abstract 
 # Join my reading group on Data-Driven Dynamical Systems!
 GitHub link posted below for [data driven dynamics and machine learning](https://github.com/kslote1/Data-Driven-Dynamics)
 
+# Media Mentions
+
+![causal_graph](https://phys.org/news/2025-07-mathematicians-reveal-factors-gun-sales.amp)
 
 # New Patent Awarded
 
