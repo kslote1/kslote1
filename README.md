@@ -30,7 +30,7 @@ GitHub link posted below for [data driven dynamics and machine learning](https:/
 
 # Media Mentions
 
-![causal_graph](https://phys.org/news/2025-07-mathematicians-reveal-factors-gun-sales.amp)
+![Phys.org](mathematicians-reveal.webp "https://phys.org/news/2025-07-mathematicians-reveal-factors-gun-sales.amp")
 
 # New Patent Awarded
 
