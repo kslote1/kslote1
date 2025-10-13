@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Kevin Slote is a principal Data Scientist. I have a Master's degree in abstract algebra, Kevin has developed a passion for category theory and topological data analysis. Currently pursuing his Ph.D. in the Biological and Engineering Networks Lab, he strives to deepen his understanding of applied mathematics and neuroscience. My research explores the prediction of epilepsy through the examination of complex neuronal networks, and casual statistical modelling.
+Kevin Slote is a principal Data Scientist. I have a Pd.D. in Applied Mathematics and Master's degree in abstract algebra, I have a passion for category theory and topological data analysis. I completed my Ph.D. in the Biological and Engineering Networks Lab, and I strives to deepen his understanding of applied mathematics and neuroscience. My research explores the prediction of epilepsy through the examination of complex neuronal networks, and casual statistical modelling. I am currently doing Postdoctoal research at Clarkson University.
 
 * [Kevin Slote **:godmode:**](https://kslote1.github.io/)
 
