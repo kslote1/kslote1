@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Upcoming Talk: ![Attractor reconstruction and their topological data analysis for seizure onset detection](https://scholarscompass.vcu.edu/bamm/2026/wed/8)
+Upcoming Talk: [Attractor reconstruction and their topological data analysis for seizure onset detection](https://scholarscompass.vcu.edu/bamm/2026/wed/8)
 
 Kevin Slote is a principal Data Scientist. I have a Ph.D. in Applied Mathematics and a Master's degree in Abstract Algebra. I have a passion for Data-Driven Dynamical Systems, Kolmogorov-Arnold Networks, and topological data analysis. I completed my Ph.D. in the Biological and Engineering Networks Lab, and I strives to deepen his understanding of applied mathematics and neuroscience. My research explores predicting epilepsy through the examination of complex neuronal networks and causal statistical modeling. I am currently doing a Research Associate at Clarkson University.
 
@@ -36,7 +36,9 @@ GitHub link posted below for ![data driven dynamics and machine learning](https:
 # Media Mentions
 
 [Causation Entropy](https://www.siam.org/publications/siam-news/articles/optimal-causation-entropy-for-the-next-generation/)
+
 [Causal Effects of Media and Twitter Advocacy on Firearm Purchases](https://www.siam.org/publications/siam-news/articles/causal-effects-of-media-and-twitter-advocacy-on-firearm-purchases/)
+
 ![Phys.org](mathematicians-reveal.webp "https://phys.org/news/2025-07-mathematicians-reveal-factors-gun-sales.amp")
 
 # New Patent Awarded
