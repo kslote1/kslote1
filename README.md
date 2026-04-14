@@ -33,6 +33,12 @@ Kevin Slote is a principal Data Scientist. I have a Ph.D. in Applied Mathematics
 # Join my reading group on Data-Driven Dynamical Systems!
 GitHub link posted below for ![data driven dynamics and machine learning](https://github.com/kslote1/Data-Driven-Dynamics)
 
+# Exciting Pre-Prints
+
+- [KANDy: Kolmogorov-Arnold Networks and Dynamical System Discovery](https://arxiv.org/abs/2602.20413)
+  
+- [CausationEntropy: Pythonic Optimal Causation Entropy](https://arxiv.org/abs/2601.13365)
+
 # Media Mentions
 
 [Causation Entropy](https://www.siam.org/publications/siam-news/articles/optimal-causation-entropy-for-the-next-generation/)
