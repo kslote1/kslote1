@@ -88,3 +88,5 @@ GitHub link posted below for [data-driven dynamics and machine learning](https:/
 # New Patent Awarded
 
 ![Patent](2024-06-13_073743_2.png "Title")
+
+<a rel="me" href="https://mastodon.social/@kevin_slote">Mastodon</a>
